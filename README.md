@@ -119,13 +119,30 @@ PORT=5000
 
 ## 📸 Screenshots
 
-Add your project screenshots here.
+### Signup page
 
-Example:
-- Login Page
-- Dashboard
-- Watchlist
-- Portfolio Section
+<img width="1882" height="915" alt="Signup page" src="https://github.com/user-attachments/assets/1c0cc952-1d4b-41c7-8d31-cd47ee562690" />
+
+### Login page
+
+<img width="1888" height="918" alt="Login page" src="https://github.com/user-attachments/assets/04652865-a4a9-48a6-9c7a-19bf5e610a06" />
+
+### Home page
+
+<img width="1888" height="917" alt="Home page" src="https://github.com/user-attachments/assets/e44d9346-c06f-4264-899c-943438001d3b" />
+
+### Dashboard
+
+<img width="1917" height="926" alt="Dashboard overview" src="https://github.com/user-attachments/assets/d66285a7-e387-4bf6-8411-91bb164b0f30" />
+
+<img width="1910" height="920" alt="Dashboard analytics" src="https://github.com/user-attachments/assets/6958195b-4c1d-4cd5-8090-b076d17381c8" />
+
+### Holdings page
+
+<img width="1873" height="917" alt="Holdings page" src="https://github.com/user-attachments/assets/a24c9fef-2ebb-4ae6-88ed-f22de26ce4ab" />
+
+<img width="1886" height="918" alt="Holdings details" src="https://github.com/user-attachments/assets/a3dbec4c-cdf6-4cd3-81a2-54a37820440f" />
+
 
 ---
 
